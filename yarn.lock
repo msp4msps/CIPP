@@ -4265,12 +4265,10 @@ hyphen@^1.6.4:
   resolved "https://registry.yarnpkg.com/hyphen/-/hyphen-1.10.6.tgz#0e779d280e696102b97d7e42f5ca5de2cc97e274"
   integrity sha512-fXHXcGFTXOvZTSkPJuGOQf5Lv5T/R2itiiCVPg9LxAje5D00O0pP83yJShFq5V89Ly//Gt6acj7z8pbBr34stw==
 
-i18next@24.2.3:
-  version "24.2.3"
-  resolved "https://registry.yarnpkg.com/i18next/-/i18next-24.2.3.tgz#3a05f72615cbd7c00d7e348667e2aabef1df753b"
-  integrity sha512-lfbf80OzkocvX7nmZtu7nSTNbrTYR52sLWxPtlXX1zAhVw8WEnFk4puUkCR4B1dNQwbSpEHHHemcZu//7EcB7A==
-  dependencies:
-    "@babel/runtime" "^7.26.10"
+i18next@26.3.4:
+  version "26.3.4"
+  resolved "https://registry.yarnpkg.com/i18next/-/i18next-26.3.4.tgz#a2e8540b0a1a6004eba525c05faa89c256fb57c8"
+  integrity sha512-pa7m0d7pBDqGHZxljT+WPFeyFgQ7P7SciPPo1tTqYuO0z4sqADYhwnBESmmGp/wEof1inwdls/k8ZgTg8rxFHA==
 
 ignore@^5.2.0, ignore@^5.3.1:
   version "5.3.2"
